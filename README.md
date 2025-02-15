@@ -1,6 +1,6 @@
 # Vigil - Network Traffic Monitor
 
-<img src="ds.png">
+<img src="Banner.png">
 
 ---
 
