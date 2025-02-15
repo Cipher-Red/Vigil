@@ -1,5 +1,9 @@
 # Vigil - Network Traffic Monitor
-<img src=d.jpg></img>
+
+<div align="center">
+ <img src="d.jpeg" alt="Portfolio Screenshot">
+</div>
+
 **Vigil** is a lightweight Python-based network traffic monitoring tool designed to capture and analyze live network traffic. It supports real-time packet inspection, protocol identification, IP/port monitoring, and basic detection of DoS/DDoS attacks. Vigil saves captured packets in the PCAP file format for further analysis and is cross-platform, working on both Linux and Windows systems.
 
 ---
