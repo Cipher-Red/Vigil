@@ -17,6 +17,7 @@
 - **Payload Inspection**: Display payload data for packets (if available).
 - **PCAP File Export**: Save captured packets in PCAP format for analysis with tools like Wireshark.
 - **Cross-Platform Support**: Works on both Linux and Windows operating systems.
+- **Ready to Use executable**: A precompiled .exe file is available for Windows users, requiring no additional setup.
 
 ---
 
