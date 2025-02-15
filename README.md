@@ -39,7 +39,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/vigil.git
+   git clone https://github.com/Cipher-Red/vigil.git
    cd vigil
    ```
 
