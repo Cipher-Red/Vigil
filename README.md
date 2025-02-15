@@ -147,7 +147,7 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](LIC
 
 ## Support
 
-If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/yourusername/vigil/issues).
+If you encounter any issues or have questions, please contact me via Email: Qipher09@proton.me.
 
 ---
 
