@@ -1,6 +1,6 @@
 # Vigil - Network Traffic Monitor
 
- <img src="ds.png">
+<img src="ds.png">
 
 ---
 
@@ -151,6 +151,17 @@ If you encounter any issues or have questions, please contact me via Email: Qiph
 
 ---
 
+## Legal Notice
+
+**Vigil is intended for ethical and legal use only.** This tool should only be used for network monitoring, security analysis, and educational purposes within the boundaries of international and local laws. Unauthorized use of this tool to intercept, monitor, or manipulate network traffic without explicit permission is strictly prohibited and may violate laws such as the **Computer Fraud and Abuse Act (CFAA)**, **General Data Protection Regulation (GDPR)**, and other relevant regulations.
+
+The developers of Vigil are not responsible for any misuse or illegal activities carried out using this tool. Users are solely responsible for ensuring compliance with applicable laws and obtaining proper authorization before using Vigil in any network environment.
+
+By using this tool, you agree to abide by all applicable legal and ethical standards and acknowledge that you bear full responsibility for any consequences resulting from its use.
+
+---
+
 ### Apache License 2.0 Summary
 
 The **Apache License 2.0** allows you to freely use, modify, and distribute the software, provided that you include the original copyright notice and disclaimers. It also provides a patent grant, protecting users from patent claims by contributors. For the full license text, see [LICENSE](LICENSE).
+
